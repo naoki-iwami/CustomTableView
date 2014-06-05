@@ -8,7 +8,7 @@
 
 import UIKit
 
-class CTViewController: UIViewController, UITableViewDataSource, UITableViewDelegate { // UITableViewController {
+class CTViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
     @IBOutlet var tableView : UITableView
     

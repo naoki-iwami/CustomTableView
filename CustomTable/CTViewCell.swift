@@ -10,8 +10,6 @@ import UIKit
 
 class CTViewCell: UITableViewCell {
     
-//    @IBOutlet var tiqavImageView : UIImageView
-//    @IBOutlet var tiqavUrlLabel : UILabel
     @IBOutlet var titleLable : UILabel
     @IBOutlet var categoryName : UILabel
     
